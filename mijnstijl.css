@@ -1,62 +1,62 @@
 header {
- background: aquamarine;
+ background-color: aquamarine;
  width: 1924 px;
  height: 200 px;   
 }
 
 #T1 {
-background: red;
+background-color: red;
 }
 
 #T2 {
-    background:aqua;
+    background-color:aqua;
     }
 
 #T3 {
- background:blue;
+ background-color:blue;
  }
 
 #T4 {
-    background: yellowgreen;
+   background-color: yellowgreen;
 }
 
 #T5 {
-    background: brown;
+    background-color: brown;
 }
 
 #T6 {
-    background:blueviolet;
+    background-color:blueviolet;
     }
 
 #T7 {
-    background: chocolate;
+    background-color: chocolate;
 }
 
 #T8 {
-    background: yellow;
+    background-color: yellow;
 }
 
 #T9 {
-    background: cadetblue;
+   background-color: cadetblue;
 }
 
 #T10 {
-    background: darkcyan;
+    background-color: darkcyan;
 }
 
 #T11 {
-    background: chartreuse;
+   background-color: chartreuse;
 }
 #T12 {
-    background: deeppink;
+    background-color: deeppink;
 }
 
 #T13 {
-    background: orange;
+   background-color: orange;
 }
 
 #T14 {
-    background: grey;
+    background-color: grey;
 }
 
 #T15 {
