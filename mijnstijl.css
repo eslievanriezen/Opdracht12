@@ -1,0 +1,74 @@
+header {
+ background-color: aquamarine;
+ width: 100%;
+ height: 200px;   
+}
+
+#T1 {
+background-color: red;
+}
+
+#T2 {
+    background-color:aqua;
+    }
+
+#T3 {
+ background-color:blue;
+ }
+
+#T4 {
+    background-color: yellowgreen;
+}
+
+#T5 {
+    background-color: brown;
+}
+
+#T6 {
+    background-color:blueviolet;
+    }
+
+#T7 {
+    background-color: chocolate;
+}
+
+#T8 {
+    background-color: yellow;
+}
+
+#T9 {
+    background-color: cadetblue;
+}
+
+#T10 {
+    background-color: darkcyan;
+}
+
+#T11 {
+    background-color: chartreuse;
+}
+#T12 {
+    background-color: deeppink;
+}
+
+#T13 {
+    background-color: rgb(160, 107, 222);
+}
+
+#T14 {
+    background-color: rgb(159, 124, 37);
+}
+
+#T15 {
+    background-color: rgb(92, 89, 91);
+}
+
+#T16 {
+    background-color: rgb(249, 226, 238);
+}
+
+footer {
+background-color: aquamarine;
+width: 100%;
+height: 200px;
+}
